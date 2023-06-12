@@ -11,10 +11,10 @@ public class Question11 {
 
     // Condition
     switch (number % 2) {
-      case 1:
+      case 0:
         System.out.println("Even Number!");
         break;
-      case 2:
+      case 1:
         System.out.println("Odd Number!");
         break;
     }
